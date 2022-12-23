@@ -563,7 +563,12 @@ p{
 .footer{
 	background-color:#fef8f5 !important;
 }
-
+.clientq{
+	opacity: 50%;
+}
+.clientq:hover{
+	opacity: 100%;
+}
 
 
 
